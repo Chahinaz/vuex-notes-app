@@ -2,4 +2,4 @@
 
 Hi
 
-Here's a vuex application that i first crate to complete my knowledges about VueJs and state management.
+Here's a vuex application that i first created to complete my knowledges about VueJs and state management.
